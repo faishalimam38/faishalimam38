@@ -8,4 +8,4 @@
 faishalimam38/faishalimam38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://faishalregistrationform.herokuapp.com  // complete registration from auth verifaication token signin/login page token generate
+
